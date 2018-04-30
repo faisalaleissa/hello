@@ -1,9 +1,0 @@
-language: python
-version:
-  - 2.7
-entrypoint:
-  - python hello.py 
-input:
-  - name:string
-output:
-  - message:string
